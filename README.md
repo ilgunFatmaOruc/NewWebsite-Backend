@@ -1,2 +1,3 @@
-# NewWebsite-Backend
-Asp.NET MVC,EF, MS SQL, Katmanlı mimari kullanılmıştır.
+# NewsWebsite-Backend
+Asp.NET MVC,EF, MS SQL, Code First ile database oluşturulmuştur.
+Katmanlı mimari kullanılmıştır.
