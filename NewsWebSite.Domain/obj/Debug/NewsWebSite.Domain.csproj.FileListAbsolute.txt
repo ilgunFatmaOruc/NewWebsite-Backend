@@ -1,0 +1,36 @@
+C:\Users\ilgun.turkyilmaz\Desktop\NewsWebSiteMyProject_v4\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.dll
+C:\Users\ilgun.turkyilmaz\Desktop\NewsWebSiteMyProject_v4\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.pdb
+C:\Users\ilgun.turkyilmaz\Desktop\NewsWebSiteMyProject_v4\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csprojAssemblyReference.cache
+C:\Users\ilgun.turkyilmaz\Desktop\NewsWebSiteMyProject_v4\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilgun.turkyilmaz\Desktop\NewsWebSiteMyProject_v4\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.dll
+C:\Users\ilgun.turkyilmaz\Desktop\NewsWebSiteMyProject_v4\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\NewsWebSiteMyProject_v7\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\NewsWebSiteMyProject_v7\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\NewsWebSiteMyProject_v7\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NewsWebSiteMyProject_v7\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NewsWebSiteMyProject_v7\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\NewsWebSiteMyProject_v7\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\yazılımla ilgili şeyler\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\yazılımla ilgili şeyler\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\yazılımla ilgili şeyler\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\yazılımla ilgili şeyler\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılımla ilgili şeyler\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\yazılımla ilgili şeyler\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\Yazılım Çalışmalarım\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\Yazılım Çalışmalarım\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.pdb
+C:\Users\user\Desktop\Yazılım Çalışmalarım\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yazılım Çalışmalarım\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yazılım Çalışmalarım\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.dll
+C:\Users\user\Desktop\Yazılım Çalışmalarım\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.pdb
+D:\Yazılım Çalışmalarım 30.04.2021\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.dll
+D:\Yazılım Çalışmalarım 30.04.2021\NewsWebSiteMyProject_v8\NewsWebSite.Domain\bin\Debug\NewsWebSite.Domain.pdb
+D:\Yazılım Çalışmalarım 30.04.2021\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csprojAssemblyReference.cache
+D:\Yazılım Çalışmalarım 30.04.2021\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.csproj.CoreCompileInputs.cache
+D:\Yazılım Çalışmalarım 30.04.2021\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.dll
+D:\Yazılım Çalışmalarım 30.04.2021\NewsWebSiteMyProject_v8\NewsWebSite.Domain\obj\Debug\NewsWebSite.Domain.pdb
