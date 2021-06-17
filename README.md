@@ -1,3 +1,3 @@
 # NewsWebsite-Backend
-Asp.NET MVC,EF, MS SQL, Code First ile database oluşturulmuştur.
-Katmanlı mimari kullanılmıştır.
+This project developed with Asp.NET MVC,EF, MS SQL, Code First technologies.
+Layered architecture is used to this project.
